@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#yoyo/Scenes/MainMap.unity
+    guid: adc37bec5fc16c144aabebaa10cf8274
+  - enabled: 1
+    path: Assets/#yoyo/Scenes/GameOver.unity
+    guid: dfac9ee585a975f4aa8d366ebcd81a58
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 14ada3eb19bb2bd42960104a3a087ba8,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 0d663e9176272cf4c80f832ab4745394,
+      type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: fe9659bb224bb054bb1dbca065d1d318, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: be5cc8fdbb693fe4eab921dd1bf352c2,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 49fcb3fb982bdb140bda10cf5417ed01,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ae0a4a226e8d9e4aba56d1e2eb3977b,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
